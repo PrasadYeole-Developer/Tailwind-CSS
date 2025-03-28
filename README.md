@@ -31,7 +31,7 @@ A sleek and interactive **portfolio website** showcasing skills, projects, and p
 ### 🔧 Technologies Used:
 - **HTML**
 - **Tailwind CSS**
- **JavaScript**
+- **JavaScript**
 
 ---
 
@@ -50,7 +50,8 @@ A simple and basic landing page with a clean design and essential features.
 
    ```bash
    git clone https://github.com/PrasadYeole-Developer/Tailwind-CSS.git
-   ```
+ ```
+---
 
 ## 📬 Contact
 - **Email:** [prasadyeole.contact@gmail.com](mailto:prasadyeole.contact@gmail.com)  
