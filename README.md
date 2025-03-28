@@ -31,7 +31,7 @@ A sleek and interactive **portfolio website** showcasing skills, projects, and p
 ### 🔧 Technologies Used:
 - **HTML**
 - **Tailwind CSS**
-- **JavaScript**
+ **JavaScript**
 
 ---
 
