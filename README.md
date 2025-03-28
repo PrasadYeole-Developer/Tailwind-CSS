@@ -9,7 +9,7 @@ This repository contains two projects: a **Portfolio Website** and a **Landing P
 ├── 📁 Portfolio-Website
 │   ├── 📄 index.html
 │   ├── 📄 style.css
-│   ├── 📁 assets
+│   └── 📁 assets
 │
 └── 📁 Landing-Page
     ├── 📄 page.html
