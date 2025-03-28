@@ -46,11 +46,12 @@ A simple and basic landing page with a clean design and essential features.
 ---
 
 ## 📌 Clone & Explore
-1. Clone the repository:
+**Clone the repository:**  
 
    ```bash
    git clone https://github.com/PrasadYeole-Developer/Tailwind-CSS.git
-   
+   ```
+
 ## 📬 Contact
 - **Email:** [prasadyeole.contact@gmail.com](mailto:prasadyeole.contact@gmail.com)  
 - **LinkedIn:** [Prasad Yeole](https://www.linkedin.com/in/prasad-yeole-)  
